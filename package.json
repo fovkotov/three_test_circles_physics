@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cannon": "^0.6.2",
+    "gsap": "^3.5.1",
+    "three": "^0.160.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.11"
+  }
+}
